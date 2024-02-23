@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Maktab - 104 - CSharp\CWs\CW18\CW18
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/CreateNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlTmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,12 +30,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/NewsWritersLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1dyaXRlcnNMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/NewsWritersRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1dyaXRlcnNSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/UpdateNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlTmV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Maktab - 104 - CSharp/CWs/CW18/CW18/Pages/_ViewImports.cshtml]

@@ -1,0 +1,16 @@
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\EFCore.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\EFCore.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\EFCore.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\refint\EFCore.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\ref\EFCore.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\Entities.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\Entities.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.AssemblyReference.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.CopyComplete

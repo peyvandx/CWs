@@ -1,0 +1,15 @@
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\bin\Debug\net8.0\Entities.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\bin\Debug\net8.0\Entities.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\Entities\obj\Debug\net8.0\ref\Entities.dll
