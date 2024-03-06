@@ -21,5 +21,9 @@
         <label asp-for="RegisteringNewsWriter.Password" class="form-label"></label>
         <input asp-for="RegisteringNewsWriter.Password" type="password" class="form-control">
     </div>
-    <button type="submit" class="btn btn-primary">ثبت نام</button>
+    <div class="mb-3">
+        <label asp-for="RegisteringNewsWriter.ConfirmPassword" class="form-label"></label>
+        <input asp-for="RegisteringNewsWriter.ConfirmPassword" type="password" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-outline-success">ثبت نام</button>
 </form>

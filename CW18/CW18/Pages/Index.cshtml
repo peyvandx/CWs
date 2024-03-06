@@ -4,6 +4,53 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
+@* <div class="text-center">
     اخبار
+</div>
+ *@
+
+
+<form class="row g-3" method="post">
+
+    <select class="form-select w-75" asp-for="@Model.SelectedCategory.Id">
+        <option value="-1" selected>همه اخبار</option>
+        @foreach (var category in Model.Categories)
+        {
+            <option value="@category.Id">@category.Name</option>
+        }
+    </select>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-secondary">دیدن نتایج</button>
+    </div>
+
+</form>
+
+<div class="container m-2">
+    <div class="row">
+        @foreach (var news in Model.NewsList)
+        {
+            <div class="col-md-4">
+                <form method="post">
+                    <div class="card m-2" style="width: 18rem;">
+                        <img src="@news.ViewImgPath" class="card-img-top" alt="@news.Heading">
+                        <div class="card-body">
+                            <h5 class="card-title">@news.Heading</h5>
+                            <p class="card-text">@news.Description</p>
+                            <p class="h6">تعداد بازدید: @news.Views</p>
+                            <input type="hidden" asp-for="@Model.SelectedNews.Id" value="@news.Id" />
+                            <button type="submit" class="btn btn-outline-secondary">ادامه خبر</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        }
+        @* <div class="card m-2" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
+        </div>
+        </div> *@
+    </div>
 </div>

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAA830-B840-4490-8310-5DB97D541A45}|IContracts\\Contracts.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\icontracts\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAA830-B840-4490-8310-5DB97D541A45}|IContracts\\Contracts.csproj|solutionrelative:icontracts\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FAA830-B840-4490-8310-5DB97D541A45}|IContracts\\Contracts.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\icontracts\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FAA830-B840-4490-8310-5DB97D541A45}|IContracts\\Contracts.csproj|solutionrelative:icontracts\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\efcore\\newsentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|solutionrelative:efcore\\newsentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\createnews.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\createnews.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\mynewsmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\mynewsmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\confirmationofnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\confirmationofnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|d:\\maktab - 104 - csharp\\cws\\cw18\\cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\AdminServices.cs",
+              "RelativeDocumentMoniker": "IContracts\\AdminServices.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\AdminServices.cs",
+              "RelativeToolTip": "IContracts\\AdminServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:20:25.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsEntityConfig.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\NewsEntityConfig.cs",
+              "RelativeDocumentMoniker": "EFCore\\NewsEntityConfig.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\NewsEntityConfig.cs",
+              "RelativeToolTip": "EFCore\\NewsEntityConfig.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:18:49.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Entities\\News.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\News.cs",
+              "RelativeToolTip": "Entities\\News.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:16:12.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNews.cshtml.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml.cs",
+              "RelativeDocumentMoniker": "CW18\\Pages\\CreateNews.cshtml.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml.cs",
+              "RelativeToolTip": "CW18\\Pages\\CreateNews.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAzwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:40:51.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T13:37:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsServices.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\NewsServices.cs",
+              "RelativeDocumentMoniker": "IContracts\\NewsServices.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\NewsServices.cs",
+              "RelativeToolTip": "IContracts\\NewsServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:20:32.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CW18\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:40:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Entities\\Admin.cs",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Admin.cs",
+              "RelativeToolTip": "Entities\\Admin.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:49:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyNewsManagement.cshtml",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\MyNewsManagement.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\MyNewsManagement.cshtml",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\MyNewsManagement.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\MyNewsManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T13:36:38.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfirmationOfNews.cshtml",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\ConfirmationOfNews.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\ConfirmationOfNews.cshtml",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\ConfirmationOfNews.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\ConfirmationOfNews.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T12:51:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateNews.cshtml",
+              "DocumentMoniker": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\CreateNews.cshtml",
+              "ToolTip": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\CreateNews.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T12:35:25.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

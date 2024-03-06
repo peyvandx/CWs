@@ -13,4 +13,6 @@ D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\ref\EFCore.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\Entities.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\Entities.pdb
 D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.AssemblyReference.cache
-D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.CopyComplete
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\bin\Debug\net8.0\EFCore.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.csproj.Up2Date
+D:\Maktab - 104 - CSharp\CWs\CW18\EFCore\obj\Debug\net8.0\EFCore.genruntimeconfig.cache

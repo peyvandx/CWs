@@ -866,20 +866,28 @@
         "dependencies": {
           "DTOs": "1.0.0",
           "EFCore": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "runtime": {
           "Contracts.dll": {}
         }
       },
       "DTOs/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
+        },
         "runtime": {
           "DTOs.dll": {}
         }
       },
       "EFCore/1.0.0": {
         "dependencies": {
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "runtime": {
           "EFCore.dll": {}

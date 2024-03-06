@@ -1,0 +1,37 @@
+﻿@page
+@model CW18.Pages.CategoriesManagementModel
+@{
+}
+
+<form class="row g-3" method="post">
+    <div class="col-auto">
+        <label for="inputPassword2" class="visually-hidden">نام دسته بندی</label>
+        <input type="text" name="categoryName" class="form-control" id="inputPassword2" placeholder="نام دسته بندی">
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-secondary mb-3">اضافه کردن</button>
+    </div>
+</form>
+
+<div class="container m-2">
+    <div class="row">
+        @foreach (var category in Model.Categories)
+        {
+            <div class="col-md-4">
+                <form method="post">
+                    <div class="card m-2" style="width: 18rem;">
+                        <div class="card-body">
+                            <h5 class="card-title">@category.Name</h5>
+                            <p class="card-text">count of news in this category</p>
+                            <input type="hidden" asp-for="@Model.SelectedCategory.Id" value="@category.Id" />
+                            <p>برای تغییر نام دسته بندی نام جدید را وارد کنید:</p>
+                            <input type="text" class="form-control mb-3" asp-for="@Model.SelectedCategory.Name" placeholder="نام جدید" />
+                            <button type="submit" class="btn btn-outline-warning">Update</button>
+                            <button type="submit" class="btn btn-outline-danger">Delete</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        }
+    </div>
+</div>

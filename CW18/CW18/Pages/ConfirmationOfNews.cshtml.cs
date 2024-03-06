@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace CW18.Pages
 {
-    public class UpdateNewsModel : PageModel
+    public class ConfirmationOfNewsModel : PageModel
     {
         public void OnGet()
         {

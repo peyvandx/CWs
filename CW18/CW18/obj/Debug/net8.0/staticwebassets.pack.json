@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\uploads\\Screenshot (1).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\uploads\\Screenshot (2).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot (2).png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CW18.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

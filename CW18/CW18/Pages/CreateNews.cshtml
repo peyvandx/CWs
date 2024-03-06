@@ -3,3 +3,27 @@
 @{
 }
 
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="@Model.CreatingNews.Heading" class="form-label">عنوان خبر</label>
+        <input type="text" class="form-control" asp-for="@Model.CreatingNews.Heading" placeholder="تیتر">
+    </div>
+    <div class="mb-3">
+        <select class="form-select w-75" asp-for="@Model.CreatingNews.CategoryId">
+            <option selected>انتخاب دسته بندی</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.CreatingNews.Description" class="form-label">توضیحات</label>
+        <textarea class="form-control" asp-for="@Model.CreatingNews.Description" rows="3"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.ImageFile" class="form-label">انتخاب عکس</label>
+        <input class="form-control" type="file" asp-for="@Model.ImageFile">
+    </div>
+    <button type="submit" class="btn btn-outline-success">ثبت خبر</button>
+</form>

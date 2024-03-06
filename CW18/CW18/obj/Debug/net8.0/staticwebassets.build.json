@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8o9qx7RttNDh0Xb6inGv/FFxmqd3FYeS8+HzE5KCHy8=",
+  "Hash": "AuodLnltsjUlVroBWMWUxROel1DB5x4xX6PpwRKi4Ks=",
   "Source": "CW18",
   "BasePath": "_content/CW18",
   "Mode": "Default",
@@ -1193,6 +1193,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\uploads\\Screenshot (1).png",
+      "SourceId": "CW18",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\",
+      "BasePath": "_content/CW18",
+      "RelativePath": "uploads/Screenshot (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Screenshot (1).png"
+    },
+    {
+      "Identity": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\uploads\\Screenshot (2).png",
+      "SourceId": "CW18",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\",
+      "BasePath": "_content/CW18",
+      "RelativePath": "uploads/Screenshot (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Screenshot (2).png"
     }
   ]
 }

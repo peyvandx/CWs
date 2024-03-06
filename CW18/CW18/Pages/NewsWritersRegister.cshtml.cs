@@ -19,7 +19,7 @@ namespace CW18.Pages
         {
             var authentication = new Authentication();
             authentication.Register(RegisteringNewsWriter);
-            return RedirectToPage("Index");
+            return RedirectToPage("NewsWritersLogin");
         }
     }
 }

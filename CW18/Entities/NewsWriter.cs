@@ -11,18 +11,22 @@ namespace Entities
     public class NewsWriter
     {
         public int Id { get; set; }
+        [Required]
         [DisplayName("نام")]
-        [Required]
         public string FirstName { get; set; }
+        [Required]
         [DisplayName("نام خانوادگی")]
-        [Required]
         public string LastName { get; set; }
+        [Required]
         [DisplayName("ایمیل")]
-        [Required]
         public string Email { get; set; }
-        [DisplayName("پسورد")]
         [Required]
+        [DisplayName("پسورد")]
         public string Password { get; set; }
+        [Required]
+        [DisplayName("تکرار پسورد")]
+        [Compare("Password", ErrorMessage = "پسورد و تکرار پسورد با هم برابر نیستند")]
+        public string ConfirmPassword { get; set; }
         public List<News> NewsList { get; set; }
 
     }

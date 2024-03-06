@@ -134,7 +134,6 @@ D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\runtimes\win\lib\net6.0\
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\obj\Debug\net8.0\CW18.csproj.AssemblyReference.cache
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\obj\Debug\net8.0\CW18.sourcelink.json
-D:\Maktab - 104 - CSharp\CWs\CW18\CW18\obj\Debug\net8.0\CW18.csproj.CopyComplete
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\Entities.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\EntityConfigs.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\Entities.pdb
@@ -145,3 +144,4 @@ D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\Contracts.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\DTOs.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\DTOs.pdb
 D:\Maktab - 104 - CSharp\CWs\CW18\CW18\bin\Debug\net8.0\Contracts.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\CW18\obj\Debug\net8.0\CW18.csproj.Up2Date

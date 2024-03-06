@@ -20,6 +20,10 @@ namespace EntityConfigs
             builder
             .Property(c => c.Name)
             .IsRequired();
+
+            builder
+            .Property(c => c.Name)
+            .HasMaxLength(100);
         }
     }
 }

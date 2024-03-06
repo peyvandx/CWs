@@ -11,10 +11,12 @@ D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.Assembly
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.sourcelink.json
-D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\refint\Contracts.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.pdb
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\ref\Contracts.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\bin\Debug\net8.0\DTOs.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\bin\Debug\net8.0\DTOs.pdb
+D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\bin\Debug\net8.0\Contracts.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+D:\Maktab - 104 - CSharp\CWs\CW18\IContracts\obj\Debug\net8.0\Contracts.genruntimeconfig.cache

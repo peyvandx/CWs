@@ -11,7 +11,7 @@ namespace IContracts
     {
         void CreateNews(News news);
         List<News> GetNews();
-        void UpdateNewst(News news);
+        void UpdateNews(News news);
         void DeleteNews(int newsId);
     }
 }

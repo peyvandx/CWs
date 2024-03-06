@@ -1,10 +1,6 @@
 ﻿using AppDbContext;
 using Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Contracts
 {
@@ -12,13 +8,30 @@ namespace Contracts
     {
         public List<News> GetAllNews()
         {
-            throw new NotImplementedException();
+            var db = new DefaultDbContext();
+            return db.News.ToList();
         }
 
         public List<News> GetNewsByCategory(Category category)
         {
             var db = new DefaultDbContext();
             return db.News.Where(n => n.CategoryId == category.Id).ToList();
+        }
+
+        public void IncreaseNewsViews(int newsId)
+        {
+            var db = new DefaultDbContext();
+            var selectedNews = db.News.FirstOrDefault(n => n.Id == newsId);
+            if (selectedNews != null)
+            {
+                selectedNews.Views += 1;
+                db.SaveChanges();
+            }
+        }
+
+        public void AddToNewsQueueToConfirmation(News news)
+        {
+            OnlineStuff.OnlineAdmin.NewsQueueToBeConfirmed.Add(news);
         }
     }
 }

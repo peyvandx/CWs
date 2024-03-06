@@ -11,5 +11,7 @@ namespace Contracts
     {
         List<News> GetAllNews();
         List<News> GetNewsByCategory(Category category);
+        void IncreaseNewsViews(int newsId);
+        void AddToNewsQueueToConfirmation(News news);
     }
 }

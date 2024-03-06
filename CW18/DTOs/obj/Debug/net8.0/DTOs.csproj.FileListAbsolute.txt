@@ -10,3 +10,6 @@ D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\DTOs.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\refint\DTOs.dll
 D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\DTOs.pdb
 D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\bin\Debug\net8.0\DTOs.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\DTOs.genruntimeconfig.cache
+D:\Maktab - 104 - CSharp\CWs\CW18\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
