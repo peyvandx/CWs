@@ -4,11 +4,6 @@
     ViewData["Title"] = "Home page";
 }
 
-@* <div class="text-center">
-    اخبار
-</div>
- *@
-
 
 <form class="row g-3" method="post">
 
@@ -25,9 +20,81 @@
 
 </form>
 
-<div class="container m-2">
-    <div class="row">
-        @foreach (var news in Model.NewsList)
+<!--masonry-layout-->
+<section class="section masonry-layout pt-45">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card-columns">
+                    @* @foreach (var news in Model.NewsList)
+                    { *@
+                        <form method="post">
+                            <!--Posts-->
+                            <div class="card">
+                                <div class="post-card">
+                                    <div class="post-card-image">
+                                        <a href="post-default.html">
+                                            <img src="" alt="">
+                                        </a>
+
+                                    </div>
+                                    <div class="post-card-content">
+                                        <a href="blog-grid.html" class="categorie"> مسافرت</a>
+                                        <h5>
+                                            <a href="post-default.html">جزیره رودریگز: وقتی بهشتی را در کنار بهشت یافتم</a>
+                                        </h5>
+                                        <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است</p>
+                                        <div class="post-card-info">
+                                            <ul class="list-inline">
+                                                <li>
+                                                    <a href="author.html">
+                                                        <img src="assets/img/author/1.jpg" alt="">
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="author.html">فلان فلانی نسب</a>
+                                                </li>
+                                                <li class="dot"></li>
+                                                <li>20 خرداد 1400</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/-->
+                        </form>
+                    @* } *@
+                </div>
+                <!--pagination-->
+                <div class="pagination mt-30">
+                    <ul class="list-inline">
+                        <li class="active">
+                            <a href="#">1</a>
+                        </li>
+                        <li>
+                            <a href="#">2</a>
+                        </li>
+                        <li>
+                            <a href="#">3</a>
+                        </li>
+                        <li>
+                            <a href="#">4</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="arrow_carrot-2left"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* <div class="container m-2">
+    <div class="row"> *@
+        @* @foreach (var news in Model.NewsList)
         {
             <div class="col-md-4">
                 <form method="post">
@@ -43,7 +110,7 @@
                     </div>
                 </form>
             </div>
-        }
+        } *@
         @* <div class="card m-2" style="width: 18rem;">
         <img src="..." class="card-img-top" alt="...">
         <div class="card-body">
@@ -52,5 +119,5 @@
         <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
         </div>
         </div> *@
-    </div>
-</div>
+@*     </div>
+</div> *@

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj": {}
+    "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj": {
+    "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj",
-        "packagesPath": "C:\\Users\\rezah\\.nuget\\packages\\",
-        "outputPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\obj\\",
+        "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\BlueSky\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rezah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BlueSky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,21 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj": {
+    "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj",
         "projectName": "EFCore",
-        "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj",
-        "packagesPath": "C:\\Users\\rezah\\.nuget\\packages\\",
-        "outputPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\obj\\",
+        "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj",
+        "packagesPath": "C:\\Users\\BlueSky\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rezah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BlueSky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj"
+              "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj"
               }
             }
           }
@@ -168,21 +168,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj": {
+    "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\rezah\\.nuget\\packages\\",
-        "outputPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\obj\\",
+        "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\BlueSky\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rezah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BlueSky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -250,21 +250,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj": {
+    "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\rezah\\.nuget\\packages\\",
-        "outputPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\obj\\",
+        "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\BlueSky\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rezah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BlueSky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -278,14 +278,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj": {
-                "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj"
+              "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj": {
+                "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj"
               },
-              "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj": {
-                "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj"
+              "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj": {
+                "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj"
               },
-              "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj"
+              "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj"
               }
             }
           }
@@ -342,7 +342,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

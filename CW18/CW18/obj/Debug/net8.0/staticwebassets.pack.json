@@ -5,6 +5,338 @@
       "PackagePath": "staticwebassets\\CW18.bundle.scp.css"
     },
     {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\elegant-font-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-font-icons.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\ElegantIconsd41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIconsd41dd41d.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\Yekan.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Yekan.woff"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\404.html",
+      "PackagePath": "staticwebassets\\assets\\img\\404.html"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\about-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\author\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\10.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\12.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\14.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\15.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\16.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\20.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\21.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\22.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\23.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\24.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\25.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\26.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\27.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\28.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\7.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\8.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\9.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\hero\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\hero\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\2.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\hero\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\3.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\2.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\3.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\4.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\5.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\instagram\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\6.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\latest\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\latest\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\2.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\latest\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\3.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\latest\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\4.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\user\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\1.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\img\\user\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\2.jpg"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\ajax-contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-contact.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\jquery-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.5.0.min.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\assets\\js\\switch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\switch.js"
+    },
+    {
       "Id": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

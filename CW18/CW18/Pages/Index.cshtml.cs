@@ -10,7 +10,7 @@ namespace CW18.Pages
         private readonly ILogger<IndexModel> _logger;
 
         [BindProperty]
-        public Category? SelectedCategory { get; set; }
+        public Category SelectedCategory { get; set; }
         [BindProperty]
         public News? SelectedNews { get; set; }
         public List<Category> Categories { get; set; }

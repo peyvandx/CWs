@@ -1561,19 +1561,6 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
-      },
-      "EntityConfigs/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Entities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/EntityConfigs.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EntityConfigs.dll": {}
-        }
       }
     }
   },
@@ -4167,20 +4154,15 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
-    },
-    "EntityConfigs/1.0.0": {
-      "type": "project",
-      "path": "../EntityConfigs/EntityConfigs.csproj",
-      "msbuildProject": "../EntityConfigs/EntityConfigs.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Contracts >= 1.0.0",
       "DTOs >= 1.0.0",
+      "E:\\Projects\\C#\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj",
       "EFCore >= 1.0.0",
       "Entities >= 1.0.0",
-      "EntityConfigs >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.2",
@@ -4188,19 +4170,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rezah\\.nuget\\packages\\": {}
+    "C:\\Users\\BlueSky\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\CW18.csproj",
+      "projectUniqueName": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\CW18.csproj",
       "projectName": "CW18",
-      "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\CW18.csproj",
-      "packagesPath": "C:\\Users\\rezah\\.nuget\\packages\\",
-      "outputPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\CW18\\obj\\",
+      "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\CW18.csproj",
+      "packagesPath": "C:\\Users\\BlueSky\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rezah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BlueSky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4214,20 +4196,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj": {
-              "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\DTOs\\DTOs.csproj"
+            "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj": {
+              "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\DTOs\\DTOs.csproj"
             },
-            "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj": {
-              "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EFCore\\EFCore.csproj"
+            "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj": {
+              "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\EFCore.csproj"
             },
-            "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\Entities\\Entities.csproj"
+            "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Entities.csproj"
             },
-            "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj": {
-              "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj"
+            "E:\\Projects\\C#\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj": {
+              "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj"
             },
-            "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj": {
-              "projectPath": "D:\\Maktab - 104 - CSharp\\CWs\\CW18\\IContracts\\Contracts.csproj"
+            "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj": {
+              "projectPath": "E:\\Projects\\C#\\CWs\\CW18\\IContracts\\Contracts.csproj"
             }
           }
         }
@@ -4287,8 +4269,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\Projects\\C#\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\Projects\\C#\\CWs\\CW18\\EntityConfigs\\EntityConfigs.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
