@@ -1,0 +1,12 @@
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.deps.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.sourcelink.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\refint\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Core\obj\Debug\net8.0\ref\App.Domain.Core.dll

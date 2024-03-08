@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\advertise\\advertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\advertise\\advertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\advertise\\advertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\advertise\\advertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\repositories\\iadvertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\repositories\\iadvertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvertiseController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\AdvertiseController.cs",
+              "RelativeDocumentMoniker": "Divar\\Controllers\\AdvertiseController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\AdvertiseController.cs",
+              "RelativeToolTip": "Divar\\Controllers\\AdvertiseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:26:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Divar\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Divar\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:24:50.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvertiseService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:11:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdvertiseRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:23:50.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvertiseRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:19:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdvertiseService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:58:06.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

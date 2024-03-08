@@ -1,0 +1,16 @@
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.deps.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.csproj.AssemblyReference.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.sourcelink.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infr.0DA07078.Up2Date
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\refint\App.Infra.Data.Repo.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Data.Repo.EF.Sql\obj\Debug\net8.0\ref\App.Infra.Data.Repo.EF.Sql.dll
