@@ -3,28 +3,152 @@
   "WorkspaceRootPath": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\entityconfigs\\advertiseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\entityconfigs\\advertiseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\entityconfigs\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\entityconfigs\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\dbcontext\\divardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\dbcontext\\divardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\user\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\user\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\advertise\\advertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\advertise\\advertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\entityconfigs\\bookmarkentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\entityconfigs\\bookmarkentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\entities\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\entities\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\advertise\\advertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\advertise\\advertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\advertise\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\advertise\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\advertise\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\advertise\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\advertise\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\advertise\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\advertise\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\advertise\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.data.repo.ef.sql\\advertise\\bookmarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6722F19F-A2CC-4752-82BE-71C6E83DF947}|App.Infra.Data.Repo.EF.Sql\\App.Infra.Data.Repo.EF.Sql.csproj|solutionrelative:app.infra.data.repo.ef.sql\\advertise\\bookmarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\repositories\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\repositories\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\repositories\\ibookmarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\repositories\\ibookmarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.services\\advertise\\bookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE79554-4917-4B92-9743-633D812D1C6C}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\advertise\\bookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\ibookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\ibookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\user\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\repositories\\iadvertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\repositories\\iadvertiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\contracts\\services\\iadvertiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\entities\\advertise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\entities\\advertise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\views\\home\\bookmarks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\views\\home\\bookmarks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\divar\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9344950-375D-4234-8DCA-F465286BED69}|Divar\\Divar.csproj|solutionrelative:divar\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\entityconfigs\\cityentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\entityconfigs\\cityentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.domain.core\\advertise\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\advertise\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|e:\\projects\\c#\\cws\\cw20-divar\\divar\\app.infra.db.ef.sql\\entityconfigs\\categoryentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729F2126-05E4-471E-B36B-71599A25F9C3}|App.Infra.Db.EF.Sql\\App.Infra.Db.EF.Sql.csproj|solutionrelative:app.infra.db.ef.sql\\entityconfigs\\categoryentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +158,458 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdvertiseController.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\AdvertiseController.cs",
-              "RelativeDocumentMoniker": "Divar\\Controllers\\AdvertiseController.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\AdvertiseController.cs",
-              "RelativeToolTip": "Divar\\Controllers\\AdvertiseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\Entities\\User.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Entities\\User.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\Entities\\User.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCAAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:26:17.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Divar\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Divar\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:24:50.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdvertiseService.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
-              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
-              "RelativeToolTip": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:11:25.835Z",
+              "WhenOpened": "2024-03-08T11:52:21.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IAdvertiseRepository.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
-              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
-              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Contracts\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\Contracts\\Services\\IUserService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Contracts\\Services\\IUserService.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\Contracts\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:23:50.075Z",
+              "WhenOpened": "2024-03-14T01:41:43.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdvertiseRepository.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
-              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
-              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:19:16.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IAdvertiseService.cs",
               "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
               "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
               "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
               "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Services\\IAdvertiseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:58:06.335Z",
+              "WhenOpened": "2024-03-14T00:45:56.579Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DivarDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\DbContext\\DivarDbContext.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\DbContext\\DivarDbContext.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\DbContext\\DivarDbContext.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\DbContext\\DivarDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:28:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvertiseEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\AdvertiseEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\EntityConfigs\\AdvertiseEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\AdvertiseEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\EntityConfigs\\AdvertiseEntityConfig.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:22:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\UserEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\EntityConfigs\\UserEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\UserEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\EntityConfigs\\UserEntityConfig.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:09:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvertiseService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Advertise\\AdvertiseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:49:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\CityService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\CityService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\CityService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Advertise\\CityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:23:35.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\CityRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\CityRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\CityRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:26:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\User\\UserRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\User\\UserRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\User\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:27:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookMarkEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\BookMarkEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\EntityConfigs\\BookMarkEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\BookMarkEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\EntityConfigs\\BookMarkEntityConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:45:27.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdvertiseRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\AdvertiseRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:54:46.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookMark.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\BookMark.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Entities\\BookMark.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\BookMark.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Entities\\BookMark.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:36:43.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\CategoryRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\CategoryRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\CategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:22:06.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\CategoryService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\CategoryService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\CategoryService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Advertise\\CategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:21:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookMarkRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\BookMarkRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repo.EF.Sql\\Advertise\\BookMarkRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Data.Repo.EF.Sql\\Advertise\\BookMarkRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repo.EF.Sql\\Advertise\\BookMarkRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:19:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\User\\UserService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\User\\UserService.cs",
+              "RelativeToolTip": "App.Domain.Services\\User\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:42:14.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookMarkRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IBookMarkRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IBookMarkRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IBookMarkRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IBookMarkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:58:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:56:39.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICityRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICityRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\ICityRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:57:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookMarkService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\BookMarkService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Advertise\\BookMarkService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Services\\Advertise\\BookMarkService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Advertise\\BookMarkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:17:14.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\ICityService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Services\\ICityService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\ICityService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Services\\ICityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:56:57.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Services\\ICategoryService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:56:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBookMarkService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IBookMarkService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Services\\IBookMarkService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Services\\IBookMarkService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Services\\IBookMarkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:58:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\Contracts\\Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\User\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\Contracts\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:41:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAdvertiseRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Contracts\\Repositories\\IAdvertiseRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:45:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Advertise.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\Advertise.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Entities\\Advertise.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\Advertise.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Entities\\Advertise.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:35:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookMarks.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\BookMarks.cshtml",
+              "RelativeDocumentMoniker": "Divar\\Views\\Home\\BookMarks.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\BookMarks.cshtml",
+              "RelativeToolTip": "Divar\\Views\\Home\\BookMarks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:44:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Divar\\Views\\Home\\Register.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Divar\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:11:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divar\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Divar\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:04:24.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Divar\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Divar\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:08:45.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Divar\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Divar\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T23:57:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Divar\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\Divar\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Divar\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:11:48.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CityEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\CityEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\EntityConfigs\\CityEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\CityEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\EntityConfigs\\CityEntityConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:09:03.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "City.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Entities\\City.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\City.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Entities\\City.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:58:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Advertise\\Entities\\Category.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Domain.Core\\Advertise\\Entities\\Category.cs",
+              "RelativeToolTip": "App.Domain.Core\\Advertise\\Entities\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:16:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\CategoryEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Db.EF.Sql\\EntityConfigs\\CategoryEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW20-Divar\\Divar\\App.Infra.Db.EF.Sql\\EntityConfigs\\CategoryEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Db.EF.Sql\\EntityConfigs\\CategoryEntityConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:07:41.52Z"
             }
           ]
         }

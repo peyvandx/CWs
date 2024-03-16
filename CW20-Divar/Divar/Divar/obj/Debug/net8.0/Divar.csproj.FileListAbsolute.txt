@@ -37,3 +37,254 @@ E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\refint\Divar.dll
 E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.pdb
 E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.genruntimeconfig.cache
 E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\ref\Divar.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Humanizer.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.CodeDom.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\appsettings.Development.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\appsettings.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.staticwebassets.runtime.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.exe
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Divar.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Azure.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Azure.Identity.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Humanizer.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.CodeDom.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Domain.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Domain.Services.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Domain.Services.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.csproj.AssemblyReference.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.MvcApplicationPartsAssemblyInfo.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.RazorAssemblyInfo.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.RazorAssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets.build.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets.development.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets\msbuild.Divar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets\msbuild.build.Divar.props
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Divar.props
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Divar.props
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\scopedcss\bundle\Divar.styles.css
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\scopedcss\projectbundle\Divar.bundle.scp.css
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.csproj.Up2Date
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\refint\Divar.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\Divar.genruntimeconfig.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar\obj\Debug\net8.0\ref\Divar.dll

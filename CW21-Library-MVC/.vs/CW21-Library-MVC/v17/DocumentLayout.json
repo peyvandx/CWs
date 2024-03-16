@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\areas\\librarian\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.repos.ef\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|solutionrelative:app.infra.data.repos.ef\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.repos.ef\\librarian\\librarianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|solutionrelative:app.infra.data.repos.ef\\librarian\\librarianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.endpoints.ui.cw21-library-mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388BADB8-9B77-4931-A5B0-F51E212DF53E}|App.EndPoints.UI.CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC.csproj|solutionrelative:app.endpoints.ui.cw21-library-mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.repos.ef\\book\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F1E4C-D657-4A02-89D2-D5CCD3753BD6}|App.Infra.Data.Repos.Ef\\App.Infra.Data.Repos.Ef.csproj|solutionrelative:app.infra.data.repos.ef\\book\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\book\\data\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\book\\data\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\book\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\book\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\user\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\user\\appservices\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\appservices\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\user\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\user\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\user\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\librarian\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\librarian\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\librarian\\appservices\\ilibrarianappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\librarian\\appservices\\ilibrarianappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\librarian\\dtos\\librariandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\librarian\\dtos\\librariandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\librarian\\entities\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\librarian\\entities\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C5467F-86FF-4941-9B2C-3C8C53E48F89}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C5467F-86FF-4941-9B2C-3C8C53E48F89}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C65221-2ECF-4958-960F-42F02B0EF5A6}|App.Domain.AppServices\\App.Domain.AppServices.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.appservices\\book\\bookappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C65221-2ECF-4958-960F-42F02B0EF5A6}|App.Domain.AppServices\\App.Domain.AppServices.csproj|solutionrelative:app.domain.appservices\\book\\bookappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\book\\appservices\\ibookappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\book\\appservices\\ibookappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.db.sqlserver.ef\\entityconfigs\\libraryentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|solutionrelative:app.infra.data.db.sqlserver.ef\\entityconfigs\\libraryentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.db.sqlserver.ef\\entityconfigs\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|solutionrelative:app.infra.data.db.sqlserver.ef\\entityconfigs\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.infra.data.db.sqlserver.ef\\entityconfigs\\bookentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C241F9B-7191-4454-845C-D1AA8A564880}|App.Infra.Data.Db.SqlServer.Ef\\App.Infra.Data.Db.SqlServer.Ef.csproj|solutionrelative:app.infra.data.db.sqlserver.ef\\entityconfigs\\bookentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\book\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\book\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\c#\\cws\\cw21-library-mvc\\app.domain.core\\book\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027180EC-68D5-43EF-B680-0100730C4C00}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\book\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:02:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:59:48.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCUAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:33:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:21:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCUAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:52:57.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:02:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:22:31.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:16:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\User\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:22:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Areas\\Librarian\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:24:41.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:33:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Program.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Program.cs",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:34:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:36:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:11:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Librarian\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Librarian\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Views\\Librarian\\Index.cshtml",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Views\\Librarian\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:11:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibrarianRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\Librarian\\LibrarianRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repos.Ef\\Librarian\\LibrarianRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\Librarian\\LibrarianRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repos.Ef\\Librarian\\LibrarianRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repos.Ef\\User\\UserRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\User\\UserRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repos.Ef\\User\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.UI.CW21-Library-MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.CW21-Library-MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.EndPoints.UI.CW21-Library-MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:13:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Data\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Book\\Data\\IBookRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Data\\IBookRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Book\\Data\\IBookRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:57:41.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Book\\Services\\IBookService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Services\\IBookService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Book\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:10:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\Book\\BookRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Repos.Ef\\Book\\BookRepository.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Repos.Ef\\Book\\BookRepository.cs",
+              "RelativeToolTip": "App.Infra.Data.Repos.Ef\\Book\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:55:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\Services\\IUserService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\Services\\IUserService.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:30:05.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\AppServices\\IUserAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\AppServices\\IUserAppService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\AppServices\\IUserAppService.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\AppServices\\IUserAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:28:26.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\DTOs\\UserDto.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:28:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\Services\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Librarian\\Services\\ILibrarianService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\Services\\ILibrarianService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Librarian\\Services\\ILibrarianService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:27:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILibrarianAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\AppServices\\ILibrarianAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Librarian\\AppServices\\ILibrarianAppService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\AppServices\\ILibrarianAppService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Librarian\\AppServices\\ILibrarianAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:26:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LibrarianDto.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\DTOs\\LibrarianDto.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Librarian\\DTOs\\LibrarianDto.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\DTOs\\LibrarianDto.cs",
+              "RelativeToolTip": "App.Domain.Core\\Librarian\\DTOs\\LibrarianDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:25:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBookAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\AppServices\\IBookAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Book\\AppServices\\IBookAppService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\AppServices\\IBookAppService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Book\\AppServices\\IBookAppService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:25:02.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\User\\Entities\\User.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\User\\Entities\\User.cs",
+              "RelativeToolTip": "App.Domain.Core\\User\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:38:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.AppServices\\Book\\BookAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.AppServices\\Book\\BookAppService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.AppServices\\Book\\BookAppService.cs",
+              "RelativeToolTip": "App.Domain.AppServices\\Book\\BookAppService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:22:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Services\\Book\\BookService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Book\\BookService.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Services\\Book\\BookService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Book\\BookService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:14:29.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\Entities\\Librarian.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Librarian\\Entities\\Librarian.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Librarian\\Entities\\Librarian.cs",
+              "RelativeToolTip": "App.Domain.Core\\Librarian\\Entities\\Librarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:15:34.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LibraryEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\LibraryEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\LibraryEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\LibraryEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\LibraryEntityConfig.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:14:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\UserEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\UserEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\UserEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\UserEntityConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:08:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\BookEntityConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\BookEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\BookEntityConfig.cs",
+              "RelativeToolTip": "App.Infra.Data.Db.SqlServer.Ef\\EntityConfigs\\BookEntityConfig.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:01:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Book\\Entities\\Book.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\Entities\\Book.cs",
+              "RelativeToolTip": "App.Domain.Core\\Book\\Entities\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:30:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Book\\DTOs\\BookDto.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.Domain.Core\\Book\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "App.Domain.Core\\Book\\DTOs\\BookDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:59:54.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

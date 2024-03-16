@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Projects\C#\CWs\CW20-Divar\Divar\Divar
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Home/BookMarks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rTWFya3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Projects/C\#/CWs/CW20-Divar/Divar/Divar/Views/Shared/Error.cshtml]

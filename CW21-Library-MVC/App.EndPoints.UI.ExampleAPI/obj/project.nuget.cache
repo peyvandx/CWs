@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSDs7vkDgFPzPJdtgn9V9k92C0seh5INIQM1LAbQ6acRlf05cEatySBRU9EjJLHprcyh20wE1vV6/qwzklnjsQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\CWs\\CW21-Library-MVC\\App.EndPoints.UI.ExampleAPI\\App.EndPoints.UI.ExampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueSky\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\BlueSky\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BlueSky\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\BlueSky\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\BlueSky\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\BlueSky\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

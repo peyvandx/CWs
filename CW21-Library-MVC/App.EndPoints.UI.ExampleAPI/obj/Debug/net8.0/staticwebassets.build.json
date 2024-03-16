@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JHYx1p7aCBZqa6gBR0J3STurYOuFT7VUfMGBFIrosa8=",
+  "Source": "App.EndPoints.UI.ExampleAPI",
+  "BasePath": "_content/App.EndPoints.UI.ExampleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

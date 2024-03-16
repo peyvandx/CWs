@@ -1,0 +1,16 @@
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.deps.json
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.pdb
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.AssemblyReference.cache
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.sourcelink.json
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Doma.EF676C44.Up2Date
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\refint\App.Domain.Services.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.pdb
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Domain.Services\obj\Debug\net8.0\ref\App.Domain.Services.dll

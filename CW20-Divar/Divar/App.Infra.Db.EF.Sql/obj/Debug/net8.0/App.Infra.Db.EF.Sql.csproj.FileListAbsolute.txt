@@ -1,0 +1,36 @@
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.csproj.AssemblyReference.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.sourcelink.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.deps.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.runtimeconfig.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infr.FEEB33BF.Up2Date
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\refint\App.Infra.Db.EF.Sql.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.genruntimeconfig.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\ref\App.Infra.Db.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.runtimeconfig.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Domain.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.csproj.AssemblyReference.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infr.FEEB33BF.Up2Date
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\refint\App.Infra.Db.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\App.Infra.Db.EF.Sql.genruntimeconfig.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Infra.Db.EF.Sql\obj\Debug\net8.0\ref\App.Infra.Db.EF.Sql.dll

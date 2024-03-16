@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Admin\AppServices\" />
+    <Folder Include="Admin\Data\" />
+    <Folder Include="Admin\DTOs\" />
+    <Folder Include="Admin\Services\" />
+    <Folder Include="Librarian\Data\" />
+    <Folder Include="User\Data\" />
+  </ItemGroup>
+
+</Project>

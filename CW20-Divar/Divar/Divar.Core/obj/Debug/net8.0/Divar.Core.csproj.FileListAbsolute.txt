@@ -1,0 +1,24 @@
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.deps.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.sourcelink.json
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\refint\Divar.Core.dll
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.pdb
+E:\Projects\C#\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\ref\Divar.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\bin\Debug\net8.0\Divar.Core.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\refint\Divar.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\Divar.Core.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\Divar.Core\obj\Debug\net8.0\ref\Divar.Core.dll

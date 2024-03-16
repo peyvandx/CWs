@@ -5,10 +5,6 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divar", "Divar\Divar.csproj", "{F9344950-375D-4234-8DCA-F465286BED69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divar.Application", "Divar.Application\Divar.Application.csproj", "{33330B5F-BF7A-469F-9398-2275D8189496}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divar.Core", "Divar.Core\Divar.Core.csproj", "{036F4961-FBEB-43AF-9D94-347CE7524007}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Domain", "01-Domain", "{CA96F4EF-E04C-4825-843F-A5FF9B1242CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastracture", "02-Infrastracture", "{884D6532-56B8-47E6-8998-E1B8EC1E02DD}"
@@ -27,13 +23,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{709B1D92-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{D58965A8-D470-495B-A492-E21EBE4694D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Domain.Core", "App.Domain.Core\App.Domain.Core.csproj", "{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Domain.Core", "App.Domain.Core\App.Domain.Core.csproj", "{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Domain.Services", "App.Domain.Services\App.Domain.Services.csproj", "{DCE79554-4917-4B92-9743-633D812D1C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Domain.Services", "App.Domain.Services\App.Domain.Services.csproj", "{DCE79554-4917-4B92-9743-633D812D1C6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Infra.Data.Repo.EF.Sql", "App.Infra.Data.Repo.EF.Sql\App.Infra.Data.Repo.EF.Sql.csproj", "{6722F19F-A2CC-4752-82BE-71C6E83DF947}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Infra.Data.Repo.EF.Sql", "App.Infra.Data.Repo.EF.Sql\App.Infra.Data.Repo.EF.Sql.csproj", "{6722F19F-A2CC-4752-82BE-71C6E83DF947}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Infra.Db.EF.Sql", "App.Infra.Db.EF.Sql\App.Infra.Db.EF.Sql.csproj", "{729F2126-05E4-471E-B36B-71599A25F9C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Infra.Db.EF.Sql", "App.Infra.Db.EF.Sql\App.Infra.Db.EF.Sql.csproj", "{729F2126-05E4-471E-B36B-71599A25F9C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,14 +41,6 @@ Global
 		{F9344950-375D-4234-8DCA-F465286BED69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9344950-375D-4234-8DCA-F465286BED69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9344950-375D-4234-8DCA-F465286BED69}.Release|Any CPU.Build.0 = Release|Any CPU
-		{33330B5F-BF7A-469F-9398-2275D8189496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33330B5F-BF7A-469F-9398-2275D8189496}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33330B5F-BF7A-469F-9398-2275D8189496}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33330B5F-BF7A-469F-9398-2275D8189496}.Release|Any CPU.Build.0 = Release|Any CPU
-		{036F4961-FBEB-43AF-9D94-347CE7524007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{036F4961-FBEB-43AF-9D94-347CE7524007}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{036F4961-FBEB-43AF-9D94-347CE7524007}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{036F4961-FBEB-43AF-9D94-347CE7524007}.Release|Any CPU.Build.0 = Release|Any CPU
 		{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{317E5B89-D1F9-4D62-A9C3-F986A0525DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU

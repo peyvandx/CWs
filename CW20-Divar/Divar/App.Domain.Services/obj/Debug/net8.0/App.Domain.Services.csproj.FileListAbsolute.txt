@@ -16,3 +16,21 @@ E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Dom
 E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\refint\App.Domain.Services.dll
 E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.pdb
 E:\Projects\C#\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\ref\App.Domain.Services.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.deps.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\bin\Debug\net8.0\App.Infra.Data.Repo.EF.Sql.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.AssemblyReference.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfoInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfo.cs
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.sourcelink.json
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Doma.EF676C44.Up2Date
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\refint\App.Domain.Services.dll
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.pdb
+D:\Maktab - 104 - CSharp\CWs\CW20-Divar\Divar\App.Domain.Services\obj\Debug\net8.0\ref\App.Domain.Services.dll

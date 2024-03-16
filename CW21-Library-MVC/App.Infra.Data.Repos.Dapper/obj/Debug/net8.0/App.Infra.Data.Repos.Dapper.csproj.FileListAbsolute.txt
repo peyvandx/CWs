@@ -1,0 +1,12 @@
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\bin\Debug\net8.0\App.Infra.Data.Repos.Dapper.deps.json
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\bin\Debug\net8.0\App.Infra.Data.Repos.Dapper.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\bin\Debug\net8.0\App.Infra.Data.Repos.Dapper.pdb
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.AssemblyInfoInputs.cache
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.AssemblyInfo.cs
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.sourcelink.json
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\refint\App.Infra.Data.Repos.Dapper.dll
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\App.Infra.Data.Repos.Dapper.pdb
+E:\Projects\C#\CWs\CW21-Library-MVC\App.Infra.Data.Repos.Dapper\obj\Debug\net8.0\ref\App.Infra.Data.Repos.Dapper.dll

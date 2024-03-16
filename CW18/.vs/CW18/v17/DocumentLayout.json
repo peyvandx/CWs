@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "E:\\Projects\\C#\\CWs\\CW18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|e:\\projects\\c#\\cws\\cw18\\entities\\newswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\newswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\newswriterslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\newswriterslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\newswritersregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\newswritersregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|e:\\projects\\c#\\cws\\cw18\\efcore\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|solutionrelative:efcore\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|e:\\projects\\c#\\cws\\cw18\\efcore\\newsentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D19A6DF-350B-4B02-8C28-14099089C5A2}|EFCore\\EFCore.csproj|solutionrelative:efcore\\newsentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|e:\\projects\\c#\\cws\\cw18\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|e:\\projects\\c#\\cws\\cw18\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\createnews.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\createnews.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|e:\\projects\\c#\\cws\\cw18\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F641D8A-059A-4528-8041-DA181B4E84B1}|Entities\\Entities.csproj|solutionrelative:entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|e:\\projects\\c#\\cws\\cw18\\cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF7321-3348-4B6E-AA87-043B3D3D6C01}|CW18\\CW18.csproj|solutionrelative:cw18\\pages\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,121 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsWritersRegister.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\NewsWritersRegister.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\NewsWritersRegister.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\NewsWritersRegister.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\NewsWritersRegister.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:12:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsWritersLogin.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\NewsWritersLogin.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\NewsWritersLogin.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\NewsWritersLogin.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\NewsWritersLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T00:12:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "NewsWriter.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\NewsWriter.cs",
+              "RelativeDocumentMoniker": "Entities\\NewsWriter.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\NewsWriter.cs",
+              "RelativeToolTip": "Entities\\NewsWriter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:03:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CW18\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T13:37:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CW18\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:40:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\DefaultDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore\\DefaultDbContext.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\DefaultDbContext.cs",
+              "RelativeToolTip": "EFCore\\DefaultDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:07:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsEntityConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\NewsEntityConfig.cs",
+              "RelativeDocumentMoniker": "EFCore\\NewsEntityConfig.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\EFCore\\NewsEntityConfig.cs",
+              "RelativeToolTip": "EFCore\\NewsEntityConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:06:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:01:20.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Entities\\News.cs",
+              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\News.cs",
+              "RelativeToolTip": "Entities\\News.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:16:12.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CW18\\Pages\\Shared\\_Layout.cshtml",
@@ -50,31 +188,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "News.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\News.cs",
-              "RelativeDocumentMoniker": "Entities\\News.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\Entities\\News.cs",
-              "RelativeToolTip": "Entities\\News.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:16:12.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CreateNews.cshtml.cs",
               "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml.cs",
               "RelativeDocumentMoniker": "CW18\\Pages\\CreateNews.cshtml.cs",
               "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml.cs",
               "RelativeToolTip": "CW18\\Pages\\CreateNews.cshtml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCAAAAA4AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T13:40:51.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CreateNews.cshtml",
               "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\CreateNews.cshtml",
               "RelativeDocumentMoniker": "CW18\\Pages\\CreateNews.cshtml",
@@ -83,31 +209,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-06T12:35:25.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml",
-              "RelativeToolTip": "CW18\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:37:11.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "CW18\\Pages\\Index.cshtml.cs",
-              "ToolTip": "E:\\Projects\\C#\\CWs\\CW18\\CW18\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "CW18\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswBoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:40:43.245Z"
             }
           ]
         }
